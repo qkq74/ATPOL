@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:ns2="http://www.google.com/kml/ext/2.2" xmlns:ns3="http://www.w3.org/2005/Atom" xmlns:ns4="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <LookAt>
+            <longitude>18.771024347919408</longitude>
+            <latitude>52.02634020294469</latitude>
+            <altitude>1174259.2724021308</altitude>
+            <heading>0.0</heading>
+            <tilt>0.0</tilt>
+            <range>948863.0839611404</range>
+            <altitudeMode>clampToGround</altitudeMode>
+        </LookAt>
+        <NetworkLink>
+            <name>atpol_polska</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>Please cite:&#xD;
+Popiela A., Łysko A., Wieczorek A. 2013. Western Pomeranian atlas of distribution of vascular plants and fungi (ZARRiG) – project scope and method. Plant Diversity and Evolution 130, 3-4, 265-27&#xD;
+&#xD;
+copyright: Andrzej Łysko (CC-BY-NC-4.0)</description>
+            <LookAt>
+                <longitude>18.49817432173377</longitude>
+                <latitude>52.03193287521506</latitude>
+                <altitude>1666883.919829492</altitude>
+                <heading>0.0</heading>
+                <tilt>0.0</tilt>
+                <range>1346929.6380680434</range>
+                <altitudeMode>clampToGround</altitudeMode>
+            </LookAt>
+            <Url>
+                <href>https://fpo.ug.edu.pl:8443/geoserver/florapom/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=florapom:atpol_polska_10&amp;styles=flora_atpol&amp;height=2048&amp;width=2048&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:false;KMSCORE:40;MODE:refresh;SUPEROVERLAY:false</href>
+                <refreshInterval>0.0</refreshInterval>
+                <viewRefreshMode>onStop</viewRefreshMode>
+                <viewRefreshTime>1.0</viewRefreshTime>
+                <viewBoundScale>1.0</viewBoundScale>
+            </Url>
+        </NetworkLink>
+        <NetworkLink>
+            <name>atpol_polska</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>Please cite:&#xD;
+Popiela A., Łysko A., Wieczorek A. 2013. Western Pomeranian atlas of distribution of vascular plants and fungi (ZARRiG) – project scope and method. Plant Diversity and Evolution 130, 3-4, 265-27&#xD;
+&#xD;
+copyright: Andrzej Łysko (CC-BY-NC-4.0)</description>
+            <LookAt>
+                <longitude>18.49817432173377</longitude>
+                <latitude>52.03193287521506</latitude>
+                <altitude>1666883.919829492</altitude>
+                <heading>0.0</heading>
+                <tilt>0.0</tilt>
+                <range>1346929.6380680434</range>
+                <altitudeMode>clampToGround</altitudeMode>
+            </LookAt>
+            <Url>
+                <href>https://fpo.ug.edu.pl:8443/geoserver/florapom/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=florapom:atpol_polska_5&amp;styles=flora_atpol_5&amp;height=2048&amp;width=2048&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:false;KMSCORE:40;MODE:refresh;SUPEROVERLAY:false</href>
+                <refreshInterval>0.0</refreshInterval>
+                <viewRefreshMode>onStop</viewRefreshMode>
+                <viewRefreshTime>1.0</viewRefreshTime>
+                <viewBoundScale>1.0</viewBoundScale>
+            </Url>
+        </NetworkLink>
+        <NetworkLink>
+            <name>atpol_polska_25</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>Please cite:&#xD;
+Popiela A., Łysko A., Wieczorek A. 2013. Western Pomeranian atlas of distribution of vascular plants and fungi (ZARRiG) – project scope and method. Plant Diversity and Evolution 130, 3-4, 265-27&#xD;
+&#xD;
+copyright: Andrzej Łysko (CC-BY-NC-4.0)</description>
+            <LookAt>
+                <longitude>18.49817432173377</longitude>
+                <latitude>52.03193287521506</latitude>
+                <altitude>1666883.919829492</altitude>
+                <heading>0.0</heading>
+                <tilt>0.0</tilt>
+                <range>1346929.6380680434</range>
+                <altitudeMode>clampToGround</altitudeMode>
+            </LookAt>
+            <Url>
+                <href>https://fpo.ug.edu.pl:8443/geoserver/florapom/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=florapom:atpol_polska_25&amp;styles=flora_atpol_25&amp;height=2048&amp;width=2048&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:false;KMSCORE:40;MODE:refresh;SUPEROVERLAY:false</href>
+                <refreshInterval>0.0</refreshInterval>
+                <viewRefreshMode>onStop</viewRefreshMode>
+                <viewRefreshTime>1.0</viewRefreshTime>
+                <viewBoundScale>1.0</viewBoundScale>
+            </Url>
+        </NetworkLink>
+    </Document>
+</kml>
